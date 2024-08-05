@@ -29,6 +29,32 @@ RYM Album Data Extractor is a Python tool designed to scrape and organize music 
     ```
 
 ### How to get HTML RYM album ratings
+1. On the home page of RateYourMusic click on your profile picture.
+<p align="center">
+  <img width="1280" height="480" src="https://github.com/Klus3kk/3D-Engine-in-C/assets/93116510/5d7d7ee0-69e4-47eb-b4dd-53081c3f799c">
+</p>
+
+2. Scroll down, click on the "Music" button. You'll find it above your rated albums.
+<p align="center">
+  <img width="1280" height="480" src="https://github.com/Klus3kk/3D-Engine-in-C/assets/93116510/5d7d7ee0-69e4-47eb-b4dd-53081c3f799c">
+</p>
+
+3. After that click on the "Print this page" button.
+<p align="center">
+  <img width="1280" height="480" src="https://github.com/Klus3kk/3D-Engine-in-C/assets/93116510/5d7d7ee0-69e4-47eb-b4dd-53081c3f799c">
+</p>
+
+4. Right click on the shown page and click "Save as..."
+<p align="center">
+  <img width="1280" height="480" src="https://github.com/Klus3kk/3D-Engine-in-C/assets/93116510/5d7d7ee0-69e4-47eb-b4dd-53081c3f799c">
+</p>
+
+5. Save the file as "Webpage, HTML Only" with the reccomended name "file".
+<p align="center">
+  <img width="1280" height="480" src="https://github.com/Klus3kk/3D-Engine-in-C/assets/93116510/5d7d7ee0-69e4-47eb-b4dd-53081c3f799c">
+</p>
+
+6. After that paste the HTML file to the folder, where the rym.py is located **and you're ready to go!**
 
 ### Usage
 
