@@ -36,7 +36,7 @@ RYM Album Data Extractor is a Python tool designed to scrape and organize music 
 
 2. Run the extraction script:
     ```bash
-    rym.py
+    python rym.py
     ```
 
 3. The script will generate two CSV files:
