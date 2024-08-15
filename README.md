@@ -19,7 +19,7 @@ RYM Album Data Extractor is a Python tool designed to scrape and organize music 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/rym-album-data-extractor.git
+    git clone https://github.com/Klus3kk/rym-album-data-extractor.git
     cd rym-album-data-extractor
     ```
 
