@@ -1,5 +1,5 @@
 # rym_extractor
-RYM Album Data Extractor is a Python tool designed to scrape and organize music album data from RateYourMusic (RYM) HTML files. This tool extracts album details and separates albums with ratings from those that are wishlisted
+RYM Album Data Extractor is a Python tool designed to scrape and organize music album data from RateYourMusic (RYM) HTML files. This tool extracts album details and separates albums with ratings from those that are wishlisted.
 
 ## Features
 
