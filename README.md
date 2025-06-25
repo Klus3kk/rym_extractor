@@ -1,11 +1,11 @@
 # rym_extractor
-RYM Album Data Extractor is a Python tool designed to scrape and organize music album data from RateYourMusic (RYM) HTML files. This tool extracts album details and separates albums with ratings from those that are wishlisted
+
+RYM Extractor is a Python tool designed to scrape and organize music album data from RateYourMusic (RYM) HTML files. This tool extracts album details and separates albums with ratings from those that are wishlisted.
 
 ## Features
 
 - Extracts artist names, album titles, and ratings from an HTML file.
 - Separates wishlisted albums (albums without ratings) into a separate file.
-- Skips entries with missing artist or album information.
 
 ## Getting Started
 
@@ -17,18 +17,14 @@ RYM Album Data Extractor is a Python tool designed to scrape and organize music 
 
 ### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Klus3kk/rym-album-data-extractor.git
-    cd rym-album-data-extractor
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install pandas beautifulsoup4
-    ```
+```bash
+git clone https://github.com/Klus3kk/rym_extractor.git
+cd rym_extractor
+pip install pandas beautifulsoup4
+```
 
 ### How to get HTML RYM album ratings
+
 1. On the home page of RateYourMusic click on your profile picture.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1824880a-b9a1-4e51-ba6e-eaae28872bb4">
